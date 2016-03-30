@@ -1,0 +1,22 @@
+{
+  "name": "st-promise",
+  "version": "1.0.0",
+  "description": "a simple class that extends Promise to add Angular-like success and error methods",
+  "main": "StPromise",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianteres/st-promise.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Sebastian Perez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastianteres/st-promise/issues"
+  },
+  "homepage": "https://github.com/sebastianteres/st-promise#readme"
+}
