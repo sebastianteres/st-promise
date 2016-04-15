@@ -1,6 +1,6 @@
 {
   "name": "st-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple class that extends Promise to add Angular-like success and error methods",
   "main": "StPromise",
   "scripts": {
